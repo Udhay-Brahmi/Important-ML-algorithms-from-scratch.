@@ -2,7 +2,7 @@ I covered following topics:
 - Linear regression.✅
 - Logistic regression.✅
 - KNN.✅
-- Support vector machine.
+- Support vector machine.✅
 - Principle component analysis.
 - Naive bayes.✅
 - Random forest.
