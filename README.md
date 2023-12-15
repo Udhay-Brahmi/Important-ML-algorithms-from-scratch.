@@ -4,7 +4,7 @@ I covered following topics:
 - KNN.✅
 - Support vector machine.
 - Principle component analysis.
-- Naive bayes.
+- Naive bayes.✅
 - Random forest.
 - Decision tree.
 - K means.
