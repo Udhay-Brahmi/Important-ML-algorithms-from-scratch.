@@ -7,7 +7,7 @@ I covered following topics:
 - Naive bayes.✅
 - Random forest.✅
 - Decision tree.
-- K means.
+- K means.✅
 - Multilayer preceptron.
 - CNN
 - RNN
