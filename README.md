@@ -6,7 +6,7 @@ I covered following topics:
 - Principle component analysis.✅
 - Naive bayes.✅
 - Random forest.✅
-- Decision tree.
+- Decision tree.✅
 - K means.✅
 - Multilayer preceptron.
 - CNN
