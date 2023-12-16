@@ -5,7 +5,7 @@ I covered following topics:
 - Support vector machine.✅
 - Principle component analysis.✅
 - Naive bayes.✅
-- Random forest.
+- Random forest.✅
 - Decision tree.
 - K means.
 - Multilayer preceptron.
