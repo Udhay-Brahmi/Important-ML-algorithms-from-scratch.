@@ -1,4 +1,4 @@
-I covered following topics:
+I covered following topics:(added few more, like: Random-forest, KNN, KMeans, GPT..)
 - Linear regression.✅
 - Logistic regression.✅
 - KNN.✅
@@ -10,9 +10,11 @@ I covered following topics:
 - K means.✅
 - Multilayer preceptron.✅
 - CNN.✅
-- RNN.
-- LSTM.
-- Word2vec.
-- TF-IDF.
+- RNN with Word2vec.✅
+- LSTM with TF-IDF.✅
+- RNN with Word2vec.✅
+- LSTM with TF-IDF.✅
+- RNN with learnable embedding.✅
+- LSTM with learnable embedding.✅
 - GPT model(using langchain).✅
 - MuRIL model(using transformer-pipeline).✅
