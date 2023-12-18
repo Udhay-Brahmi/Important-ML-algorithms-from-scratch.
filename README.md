@@ -9,7 +9,7 @@ I covered following topics:
 - Decision tree.✅
 - K means.✅
 - Multilayer preceptron.✅
-- CNN.
+- CNN.✅
 - RNN.
 - LSTM.
 - Word2vec.
