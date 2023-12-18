@@ -8,10 +8,10 @@ I covered following topics:
 - Random forest.✅
 - Decision tree.✅
 - K means.✅
-- Multilayer preceptron.
-- CNN
-- RNN
-- LSTM
+- Multilayer preceptron.✅
+- CNN.
+- RNN.
+- LSTM.
 - Word2vec.
 - TF-IDF.
 - GPT model(using langchain).✅
